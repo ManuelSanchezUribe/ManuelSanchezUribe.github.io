@@ -6,5 +6,6 @@ email: "manuel.sanchez@ing.puc.cl"
 description: "personal website"
 author: "Manuel"
 github_username: "ManuelSanchezUribe"
+credits: None
 
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
