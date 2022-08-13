@@ -1,9 +1,13 @@
 theme: jekyll-theme-midnight
 
+github:
+  is_project_page: false
+  
 title: "Manuel A. Sanchez"
+subtitle: " "
 email: "manuel.sanchez@ing.puc.cl"
 
-description: "personal website"
+description: "Assistant Professor \n IMC"
 author: "Manuel"
 github_username: "ManuelSanchezUribe"
 credits: None
