@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/ManuelSanchezUribe/ManuelS
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# Courses
+- IMT3410 Metodos para Ecuaciones Diferenciales
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,7 +13,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Courses
 ## Header 2
 ### Header 3
 
