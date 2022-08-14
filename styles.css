@@ -1,7 +1,7 @@
 nav {
   margin: 27px auto 0;
 
-  position: relative;
+  position: absolute;
   width: 590px;
   height: 50px;
   background-color: #34495e;
