@@ -32,11 +32,9 @@ email: manuel.sanchez at ing.puc.cl
 
 mailing address: 
 
-Instituto de Ingenieria Matematica y Computacional 
-
-Edificio Hernan Briones, 2do piso, Campus San Joaquin UC. 
-
-Avda. Vicuna Mackenna 4860, Macul, Santiago, Chile
+Instituto de Ingenieria Matematica y Computacional \n
+Edificio Hernan Briones, 2do piso, Campus San Joaquin UC,\n 
+Avda. Vicuna Mackenna 4860, Macul, Santiago, Chile.
 
 url: [https://manuelsanchezuribe.github.io](https://manuelsanchezuribe.github.io)
 
