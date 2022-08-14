@@ -8,7 +8,7 @@ Numerical Analysis and Scientific Computing.
 
 ### Students
 
-Current and past students
+Current and former students
 
 - Cristhian Nuñez, PhD in Mathematics, UC. 
 - Vicente Hojas, Master of Engineerig Science, UC.
