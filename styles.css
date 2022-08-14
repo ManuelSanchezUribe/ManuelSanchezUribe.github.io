@@ -3,7 +3,7 @@ nav {
 
   position: absolute;
   width: 590px;
-  height: 50px;
+  height: 40px;
   background-color: #34495e;
   border-radius: 8px;
   font-size: 0;
@@ -11,7 +11,7 @@ nav {
 nav a {
   line-height: 50px;
   height: 100%;
-  font-size: 15px;
+  font-size: 12px;
   display: inline-block;
   position: relative;
   z-index: 1;
@@ -33,16 +33,16 @@ a:nth-child(1) {
   width: 100px;
 }
 a:nth-child(2) {
-  width: 110px;
+  width: 100px;
 }
 a:nth-child(3) {
   width: 100px;
 }
 a:nth-child(4) {
-  width: 160px;
+  width: 100px;
 }
 a:nth-child(5) {
-  width: 120px;
+  width: 100px;
 }
 nav .start-home, a:nth-child(1):hover~.animation {
   width: 100px;
