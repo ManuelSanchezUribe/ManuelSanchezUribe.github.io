@@ -1,4 +1,10 @@
 <!DOCTYPE html>
+<style type="text/css">
+h2 {
+    color:#069;
+}
+</style>
+
 <html lang="{{ site.lang | default: "en-US" }}">
 
   <head>
@@ -21,7 +27,6 @@
           {% endif %}
           <img src="{{site.logo}}" alt="Logo" />
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.subtitle | default: site.github.project_tagline }}</h2>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
           {% if site.show_downloads %}
