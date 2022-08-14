@@ -1,10 +1,10 @@
 nav {
-  margin: 17px auto 0;
+  margin: 27px auto 0;
 
   position: absolute;
   width: 550px;
   height: 40px;
-  background-color: #0F79D0; /*#212121;*/ /*#9b59b6;*/ /*#34495e;*/
+  background-color: #222222; /*#212121;*/ /*#9b59b6;*/ /*#34495e;*/
   border-radius: 8px;
   font-size: 0;
 }
@@ -67,7 +67,7 @@ nav .start-portefolio, a:nth-child(4):hover~.animation {
 nav .start-contact, a:nth-child(5):hover~.animation {
   width: 100px;
   left: 400px;
-  background-color: #e67e22;
+  background-color: #0F79D0; /*#e67e22;*/
 }
 /*
 body {
