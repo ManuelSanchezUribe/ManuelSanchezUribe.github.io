@@ -75,7 +75,7 @@ body {
   font-family: sans-serif;
   background: #2c3e50;
 }
-h1 {
+/*h1 {
   text-align: center;
   margin: 40px 0 40px;
   text-align: center;
@@ -84,6 +84,7 @@ h1 {
   text-shadow: 2px 2px 4px #000000;
   font-family: 'Cherry Swash', cursive;
 }
+*/
 
 p {
     position: absolute;
