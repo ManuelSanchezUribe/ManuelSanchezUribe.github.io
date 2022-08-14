@@ -17,8 +17,7 @@ Numerical Analysis and Scientific Computing.
 
 ### Projects for students
 
-
-## Courses
+## <a name="courses"> Courses </a>
 - [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
 - IMT2111 Álgebra Lineal Numérica
 - Ecuaciones Diferenciales Ordinarias
