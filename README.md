@@ -27,9 +27,17 @@ Numerical Analysis and Scientific Computing.
 
 ## Contact
 <a name="contact"> </a>
+
 email: manuel.sanchez at ing.puc.cl
-mailing address: Instituto de Ingenieria Matematica y Computacional, Edificio Hernan Briones, 2do piso, Campus San Joaquin UC. 
+
+mailing address: 
+
+Instituto de Ingenieria Matematica y Computacional 
+
+Edificio Hernan Briones, 2do piso, Campus San Joaquin UC. 
+
 Avda. Vicuna Mackenna 4860, Macul, Santiago, Chile
+
 url: [https://manuelsanchezuribe.github.io](https://manuelsanchezuribe.github.io)
 
 
