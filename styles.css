@@ -50,23 +50,23 @@ nav .start-home, a:nth-child(1):hover~.animation {
   background-color: #e67e22;/*#1abc9c;*/
 }
 nav .start-about, a:nth-child(2):hover~.animation {
-  width: 110px;
+  width: 100px;
   left: 100px;
   background-color: #e67e22;/*#e74c3c;*/
 }
 nav .start-blog, a:nth-child(3):hover~.animation {
   width: 100px;
-  left: 210px;
+  left: 200px;
   background-color: #e67e22;/*#3498db;*/
 }
 nav .start-portefolio, a:nth-child(4):hover~.animation {
-  width: 160px;
-  left: 310px;
+  width: 100px;
+  left: 300px;
   background-color: #e67e22;/*#9b59b6;*/
 }
 nav .start-contact, a:nth-child(5):hover~.animation {
-  width: 120px;
-  left: 470px;
+  width: 100px;
+  left: 400px;
   background-color: #e67e22;
 }
 /*
