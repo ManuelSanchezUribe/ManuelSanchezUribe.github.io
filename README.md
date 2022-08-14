@@ -24,3 +24,8 @@ Numerical Analysis and Scientific Computing.
 - Ecuaciones Diferenciales Ordinarias
 - Cálculo I
 
+
+## Contact
+<a name="contact"> </a>
+email: manuel.sanchez at ing.puc.cl
+
