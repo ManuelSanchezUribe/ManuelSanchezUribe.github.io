@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Catolica de Chile (UC). The IMC is an interdisciplinary institute developed by the Escuela de Ingenieria y la Facultad de Matematicas.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Insterests
+
+
 
 # Courses
 - IMT3410 Metodos para Ecuaciones Diferenciales
