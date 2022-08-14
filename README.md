@@ -15,6 +15,8 @@ Numerical Analysis and Scientific Computing.
 - Joaquin Valenzuela, Master of Engineering Sciences, UC,
 - Genaro Laymuns. Master of Engineering Sciences, UC. Graduated July 2021.
 
+Follow this [link](Student.md) to find out more about current and past students projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
+
 ### Projects for students
 
 ## Courses
