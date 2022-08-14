@@ -1,27 +1,5 @@
 <!DOCTYPE html>
-<style type="text/css">
-    
-header {
-  position: relative;
-  padding:0;  
-  height: 80px;
-  border: 1px solid;
-}
 
-h1 {
-  text-align: center;
-}
-
-.logo-img {
-  position: absolute;
-  right: 0;
-  top: 0;
-  bottom: 0;  
-}
-h2 {
-    color:#069;
-}
-</style>
 
 <html lang="{{ site.lang | default: "en-US" }}">
 
@@ -43,7 +21,7 @@ h2 {
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
-          <img src="{{site.logo}}" alt="Logo" />
+          <img src="{{site.logo}}" alt="Logo" width='50px' height='50px'>
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
