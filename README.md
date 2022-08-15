@@ -10,10 +10,10 @@ Numerical Analysis and Scientific Computing.
 
 Current and former students
 
-- Cristhian Nuñez, PhD in Mathematics, UC. 
-- Vicente Hojas, Master of Engineerig Science, UC.
-- Pablo Cortes, Master of Engineering Sciences, UC. 
-- Joaquin Valenzuela, Master of Engineering Sciences, UC,
+- Cristhian Nuñez, PhD in Mathematics, UC. 2022-.
+- Vicente Hojas, Master of Engineering Sciences, UC. 2021-.
+- Pablo Cortes, Master of Engineering Sciences, UC. 2021-.
+- Joaquin Valenzuela, Master of Engineering Sciences, UC. 2021-.
 - Genaro Laymuns. Master of Engineering Sciences, UC. Graduated July 2021.
 
 Follow this [link](Student.md) to find out more about current and past students projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
