@@ -8,6 +8,8 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 * Ingeniero Cil Matematico, Universidad de Concepcion 2010
 * B.Sc. Mathematical Engineering, Universidad de Concepcion 2010
 
+[ORCID](orcid.org/0000-0001-8175-1831)
+
 
 ### Research Interests
 Numerical Analysis and Scientific Computing.
