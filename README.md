@@ -7,7 +7,10 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 Publications:
-
+- Experiments, modelling, and simulations for a gel bonded to a rigid substrate. Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. (2022). Journal of Elasticity, 1-29.
+- Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. Cockburn, B., Du, S. & Sánchez, M. (2022). Computational Methods in Applied Mathematics. https://doi.org/10.1515/cmam-2021-0215
+- Symplectic Hamiltonian finite element methods for electromagnetics. Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. (2022). Computer Methods in Applied Mechanics and Engineering, 396, 114969.
+- Corrected finite element methods on unfitted meshes for Stokes moving interface problem. Laymuns, G., & Sánchez, M. A. (2022). Computers & Mathematics with Applications, 108, 159-174.
 - Symplectic Hamiltonian finite element methods for linear elastodynamics. MA Sanchez, B Cockburn, NC Nguyen, J Peraire. Computer Methods in Applied Mechanics and Engineering. Accepted.
 - An O (p3) hp-version FEM in two dimensions: Preconditioning and post-processing. M Ainsworth, S Jiang, MA Sanchez. Computer Methods in Applied Mechanics and Engineering 350, 766-802.
 - Stormer-Numerov HDG methods for acoustic waves. B Cockburn, Z Fu, A Hungria, L Ji, MA Sánchez, FJ Sayas. Journal of Scientific Computing 75 (2), 597-624
