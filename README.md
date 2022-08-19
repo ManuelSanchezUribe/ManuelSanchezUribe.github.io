@@ -47,12 +47,25 @@ Follow this [link](Student.md) to find out more about current and past students 
 
 
 ### Teaching
-<a name="courses"> </a>
-- [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
-- IMT2111 Álgebra Lineal Numérica
-- Ecuaciones Diferenciales Ordinarias
-- Cálculo I
 
+#### UC
+* 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
+* 2022 - I. Algebra Lineal Numerica IMT2111 
+* 2022 - I.  Cálculo I MAT 1610.
+* 2021 - I. Ecuaciones Diferenciales Ordinarias MAT1640.    [Youtube channel](https://www.youtube.com/channel/UCG8zBk2sF7vggUinoD-88jQ) 
+* 2021 - I. Algebra Lineal Numerica IMT2111 
+* 2020 - II. Topicos Avanzados de Ingenieria Matematica, IMT 3800
+* 2020 - II. Calculo Cientifico I, MAT2605
+* 2020 - I.  Álgebra Lineal Numérica, IMT 2111
+* 2019 - II.  Introducción al Álgebra, MAT 1206
+* 2019 - II.  Tópicos Avanzados de Análisis Numérico, IMT 3810
+* 2019 - I.   Álgebra Lineal Numérica, IMT 2111
+* 2019 - I.   Cálculo I MAT 1610
+* 2018 - II. Taller de Matemáticas Aplicadas IMT 2116
+
+#### University of Minnesota
+* Spring 2018  Calculus II
+* Fall 2017 Calculus I
 
 ### Contact me
 <a name="contact"> </a>
@@ -64,5 +77,7 @@ Edificio Hernan Briones, 2do piso, Campus San Joaquin UC<br>
 Avda. Vicuna Mackenna 4860, Macul, Santiago, Chile.
 
 url: [https://manuelsanchezuribe.github.io](https://manuelsanchezuribe.github.io)
+
+[Youtube channel](https://www.youtube.com/channel/UCG8zBk2sF7vggUinoD-88jQ) 
 
 
