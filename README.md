@@ -15,7 +15,7 @@ Publications:
 - An O (p3) hp-version FEM in two dimensions: Preconditioning and post-processing. M Ainsworth, S Jiang, MA Sanchez. Computer Methods in Applied Mechanics and Engineering 350, 766-802.
 - Stormer-Numerov HDG methods for acoustic waves. B Cockburn, Z Fu, A Hungria, L Ji, MA Sánchez, FJ Sayas. Journal of Scientific Computing 75 (2), 597-624
 - Robust flux error estimation of an unfitted Nitsche method for high-contrast interface problems. E Burman, J Guzmán, MA Sánchez, M Sarkis. IMA Journal of Numerical Analysis 38 (2), 646-668
-- upercloseness of primal-dual Galerkin approximations for second order elliptic problems. B Cockburn, MA Sánchez, C Xiong. Journal of Scientific Computing 75 (1), 376-394
+- Supercloseness of primal-dual Galerkin approximations for second order elliptic problems. B Cockburn, MA Sánchez, C Xiong. Journal of Scientific Computing 75 (1), 376-394
 - The diffuse Nitsche method: Dirichlet constraints on phase‐field boundaries. LH Nguyen, SKF Stoter, M Ruess, MA Sanchez Uribe, D Schillinger. International Journal for Numerical Methods in Engineering 113 (4), 601-633
 - Symplectic Hamiltonian HDG methods for wave propagation phenomena. MA Sánchez, C Ciuca, NC Nguyen, J Peraire, B Cockburn. Journal of Computational Physics 350, 951-973
 - A finite element method for high-contrast interface problems with error estimates independent of contrast. J Guzmán, MA Sánchez, M Sarkis. Journal of Scientific Computing 73 (1), 330-365
