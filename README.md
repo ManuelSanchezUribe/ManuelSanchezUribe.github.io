@@ -56,7 +56,7 @@ Follow this [link](Student.md) to find out more about current and past students 
 ### Teaching
 
 #### UC
-* 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT3410/IMT3410.md)
+* 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales new](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT3410/IMT3410.md)
 * 2022 - I. Algebra Lineal Numerica IMT2111 
 * 2022 - I.  Cálculo I MAT 1610.
 * 2021 - I. Ecuaciones Diferenciales Ordinarias MAT1640.    [Youtube channel](https://www.youtube.com/channel/UCG8zBk2sF7vggUinoD-88jQ) 
