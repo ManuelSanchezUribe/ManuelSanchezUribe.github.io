@@ -24,9 +24,9 @@ Publications:
         <li>JS</li>
     </ol>
 <dl>
- <dt>[2]</dt> <dd>item 1</dd>
- <dt>[3]</dt> <dd>item 2</dd>
- <dt>[4]</dt>  <dd>item 3</dd>
+ <dt>[2] <dd>item 1</dd></dt>
+ <dt>[3] <dd>item 2</dd></dt> 
+ <dt>[4] <dd>item 3</dd></dt> 
 </dl>
 - Experiments, modelling, and simulations for a gel bonded to a rigid substrate. Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. (2022). Journal of Elasticity, 1-29.
 - Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. Cockburn, B., Du, S. & Sánchez, M. (2022). Computational Methods in Applied Mathematics. https://doi.org/10.1515/cmam-2021-0215
