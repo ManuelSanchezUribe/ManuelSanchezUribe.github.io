@@ -19,6 +19,11 @@ Numerical Analysis and Scientific Computing.
 
 Publications:
 <ol reversed>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JS</li>
+    </ol>
+<ol reversed>
  <li>This is</li>
  <li>a letter</li>
  <li>list</li>
