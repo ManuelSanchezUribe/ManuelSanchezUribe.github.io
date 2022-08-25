@@ -18,20 +18,7 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 Publications:
-<ol class="rounded-list">
-    <li><a href="">List item</a></li>
-    <li><a href="">List item</a></li>
-    <li><a href="">List item</a>
-      <ol>
-        <li><a href="">List sub item</a></li>
-        <li><a href="">List sub item</a></li>
-        <li><a href="">List sub item</a></li>
-      </ol>
-    </li>
-    <li><a href="">List item</a></li>
-    <li><a href="">List item</a></li>
-  </ol>
-  
+
 - Experiments, modelling, and simulations for a gel bonded to a rigid substrate. Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. (2022). Journal of Elasticity, 1-29.
 - Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. Cockburn, B., Du, S. & Sánchez, M. (2022). Computational Methods in Applied Mathematics. https://doi.org/10.1515/cmam-2021-0215
 - Symplectic Hamiltonian finite element methods for electromagnetics. Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. (2022). Computer Methods in Applied Mechanics and Engineering, 396, 114969.
@@ -47,10 +34,10 @@ Publications:
 - Higher-order finite element methods for elliptic problems with interfaces. J Guzmán, MA Sánchez, M Sarkis. ESAIM: Mathematical Modelling and Numerical Analysis 50 (5), 1561-1583
 - Computing the Bezier control points of the Lagrangian interpolant in arbitrary dimension. M Ainsworth, MA Sánchez. SIAM Journal on Scientific Computing 38 (3), A1682-A1700
 - On the accuracy of finite element approximations to a class of interface problems. J Guzmán, M Sánchez, M Sarkis. Mathematics of Computation 85 (301), 2071-2098
-- Max-norm stability of low order Taylor–Hood elements in three dimensions. J Guzmán, MA Sánchez. Journal of Scientific Computing 65 (2), 598-621
-- Pseudostress-based mixed finite element methods for the Stokes problem in Rn with Dirichlet boundary conditions. I: A priori error analysis. GN Gatica, A Márquez, MA Sánchez. Communications in Computational Physics 12 (1), 109
-2. A priori and a posteriori error analyses of a velocity-pseudostress formulation for a class of quasi-Newtonian Stokes flows. GN Gatica, A Márquez, MA Sánchez. Computer Methods in Applied Mechanics and Engineering 200 (17-20), 1619-1636
-1. Analysis of a velocity–pressure–pseudostress formulation for the stationary Stokes equations. GN Gatica, A Márquez, MA Sánchez. Computer Methods in Applied Mechanics and Engineering 199 (17-20), 1064-1079
+* Johnny Guzmán and Manuel A. Sánchez. Max-norm stability of low order Taylor–Hood elements in three dimensions. *Journal of Scientific Computing*. 65 (2): 598-621, 2015.
+* Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. Pseudostress-based mixed finite element methods for the Stokes problem in $\mathbb R^n$ with Dirichlet boundary conditions. I: A priori error analysis. *Communications in Computational Physics*, 12 (1): 109-134, 2012.
+* Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. A priori and a posteriori error analyses of a velocity-pseudostress formulation for a class of quasi-Newtonian Stokes flows. *Computer Methods in Applied Mechanics and Engineering*. 200 (17-20): 1619-1636, 2011.
+* Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. Analysis of a velocity–pressure–pseudostress formulation for the stationary Stokes equations. *Computer Methods in Applied Mechanics and Engineering*, 199 (17-20): 1064-1079, 2010.
 
 ### Students
 
