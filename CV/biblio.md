@@ -4,8 +4,5 @@ output: pdf_document
 bibliography: MyBiblio_Application.bib
 ---
 
-nocite: |
-  @MAMS,
-...
+Smith says blah [@MAMS].
 
-@item3
