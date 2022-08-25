@@ -23,11 +23,11 @@ Publications:
         <li>CSS</li>
         <li>JS</li>
     </ol>
-<ol reversed>
- <li>This is</li>
- <li>a letter</li>
- <li>list</li>
-</ol>
+<dl>
+ <li>[2] item 1</li>
+ <li>[3] item 2</li>
+ <li>[4] item 3</li>
+</dl>
 - Experiments, modelling, and simulations for a gel bonded to a rigid substrate. Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. (2022). Journal of Elasticity, 1-29.
 - Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. Cockburn, B., Du, S. & Sánchez, M. (2022). Computational Methods in Applied Mathematics. https://doi.org/10.1515/cmam-2021-0215
 - Symplectic Hamiltonian finite element methods for electromagnetics. Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. (2022). Computer Methods in Applied Mechanics and Engineering, 396, 114969.
