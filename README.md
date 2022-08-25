@@ -13,12 +13,6 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 
 [ORCID](https://orcid.org/0000-0001-8175-1831)
 
----
-title: "CV"
-bibliography: CV/MyBiblio_Application.bib
----
-
-[@Cockburn1]
 
 ### Research Interests
 Numerical Analysis and Scientific Computing.
