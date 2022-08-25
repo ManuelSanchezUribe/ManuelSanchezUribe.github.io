@@ -4,3 +4,8 @@ output: pdf_document
 bibliography: MyBiblio_Application.bib
 ---
 
+nocite: |
+  @MAMS,
+...
+
+@item3
