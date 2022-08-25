@@ -35,8 +35,8 @@ Publications:
 - On the accuracy of finite element approximations to a class of interface problems. J Guzmán, M Sánchez, M Sarkis. Mathematics of Computation 85 (301), 2071-2098
 - Max-norm stability of low order Taylor–Hood elements in three dimensions. J Guzmán, MA Sánchez. Journal of Scientific Computing 65 (2), 598-621
 - Pseudostress-based mixed finite element methods for the Stokes problem in Rn with Dirichlet boundary conditions. I: A priori error analysis. GN Gatica, A Márquez, MA Sánchez. Communications in Computational Physics 12 (1), 109
-- A priori and a posteriori error analyses of a velocity-pseudostress formulation for a class of quasi-Newtonian Stokes flows. GN Gatica, A Márquez, MA Sánchez. Computer Methods in Applied Mechanics and Engineering 200 (17-20), 1619-1636
-- Analysis of a velocity–pressure–pseudostress formulation for the stationary Stokes equations. GN Gatica, A Márquez, MA Sánchez. Computer Methods in Applied Mechanics and Engineering 199 (17-20), 1064-1079
+[2] A priori and a posteriori error analyses of a velocity-pseudostress formulation for a class of quasi-Newtonian Stokes flows. GN Gatica, A Márquez, MA Sánchez. Computer Methods in Applied Mechanics and Engineering 200 (17-20), 1619-1636
+[1] Analysis of a velocity–pressure–pseudostress formulation for the stationary Stokes equations. GN Gatica, A Márquez, MA Sánchez. Computer Methods in Applied Mechanics and Engineering 199 (17-20), 1064-1079
 
 ### Students
 
