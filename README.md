@@ -19,21 +19,21 @@ Numerical Analysis and Scientific Computing.
 
 Publications:
 
-- Experiments, modelling, and simulations for a gel bonded to a rigid substrate. Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. (2022). Journal of Elasticity, 1-29.
-- Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. Cockburn, B., Du, S. & Sánchez, M. (2022). Computational Methods in Applied Mathematics. https://doi.org/10.1515/cmam-2021-0215
-- Symplectic Hamiltonian finite element methods for electromagnetics. Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. (2022). Computer Methods in Applied Mechanics and Engineering, 396, 114969.
-- Corrected finite element methods on unfitted meshes for Stokes moving interface problem. Laymuns, G., & Sánchez, M. A. (2022). Computers & Mathematics with Applications, 108, 159-174.
-- Symplectic Hamiltonian finite element methods for linear elastodynamics. MA Sanchez, B Cockburn, NC Nguyen, J Peraire. Computer Methods in Applied Mechanics and Engineering. Accepted.
-- An O (p3) hp-version FEM in two dimensions: Preconditioning and post-processing. M Ainsworth, S Jiang, MA Sanchez. Computer Methods in Applied Mechanics and Engineering 350, 766-802.
-- Stormer-Numerov HDG methods for acoustic waves. B Cockburn, Z Fu, A Hungria, L Ji, MA Sánchez, FJ Sayas. Journal of Scientific Computing 75 (2), 597-624
-- Robust flux error estimation of an unfitted Nitsche method for high-contrast interface problems. E Burman, J Guzmán, MA Sánchez, M Sarkis. IMA Journal of Numerical Analysis 38 (2), 646-668
-- Supercloseness of primal-dual Galerkin approximations for second order elliptic problems. B Cockburn, MA Sánchez, C Xiong. Journal of Scientific Computing 75 (1), 376-394
-- The diffuse Nitsche method: Dirichlet constraints on phase‐field boundaries. LH Nguyen, SKF Stoter, M Ruess, MA Sanchez Uribe, D Schillinger. International Journal for Numerical Methods in Engineering 113 (4), 601-633
-- Symplectic Hamiltonian HDG methods for wave propagation phenomena. MA Sánchez, C Ciuca, NC Nguyen, J Peraire, B Cockburn. Journal of Computational Physics 350, 951-973
-- A finite element method for high-contrast interface problems with error estimates independent of contrast. J Guzmán, MA Sánchez, M Sarkis. Journal of Scientific Computing 73 (1), 330-365
-- Higher-order finite element methods for elliptic problems with interfaces. J Guzmán, MA Sánchez, M Sarkis. ESAIM: Mathematical Modelling and Numerical Analysis 50 (5), 1561-1583
-- Computing the Bezier control points of the Lagrangian interpolant in arbitrary dimension. M Ainsworth, MA Sánchez. SIAM Journal on Scientific Computing 38 (3), A1682-A1700
-- On the accuracy of finite element approximations to a class of interface problems. J Guzmán, M Sánchez, M Sarkis. Mathematics of Computation 85 (301), 2071-2098
+* Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. Experiments, modelling, and simulations for a gel bonded to a rigid substrate. *Journal of Elasticity*. 1-29, 2022.
+* Cockburn, B., Du, S. & Sánchez, M. Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. *Computational Methods in Applied Mathematics*. 2022. https://doi.org/10.1515/cmam-2021-0215
+*  Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. Symplectic Hamiltonian finite element methods for electromagnetics. *Computer Methods in Applied Mechanics and Engineering*. 396, 114969, 2022.
+* Genaro Laymuns and Manuel A. Sánchez,. Corrected finite element methods on unfitted meshes for Stokes moving interface problem. *Computers & Mathematics with Applications*. 108, 159-174, 2022.
+* MA Sánchez, B Cockburn, NC Nguyen, J Peraire. Symplectic Hamiltonian finite element methods for linear elastodynamics. Computer Methods in Applied Mechanics and Engineering, 381: 113843, 2021.
+* M. Ainsworth, S Jiang, MA Sánchez. An $\mathcal O(p^3)$ $hp$-version FEM in two dimensions: Preconditioning and post-processing.  *Computer Methods in Applied Mechanics and Engineering*. 350: 766-802, 2019.
+* Bernardo Cockburn, Zhixing Fu, Allan Hungria, Liangyue Ji, Manuel A. Sánchez. Stormer-Numerov HDG methods for acoustic waves.  *Journal of Scientific Computing*. 75 (2): 597-624, 2018.
+* LH Nguyen, SKF Stoter, M Ruess, MA Sánchez, and D Schillinger. The diffuse Nitsche method: Dirichlet constraints on phase‐field boundaries.  *International Journal for Numerical Methods in Engineering*. 113 (4): 601-633, 2017.
+*  MA Sánchez, C Ciuca, NC Nguyen, J Peraire, B Cockburn. Symplectic Hamiltonian HDG methods for wave propagation phenomena. *Journal of Computational Physics*. 350: 951-973, 2017.
+* Bernardo Cockburn, Manuel A. Sánchez, Chunguang Xiong. Supercloseness of primal-dual Galerkin approximations for second order elliptic problems.  *Journal of Scientific Computing* 75 (1): 376-394, 2018.
+* Erik Burman, Johnny Guzmán, Manuel A. Sánchez, and  Marcus Sarkis. Robust flux error estimation of an unfitted Nitsche method for high-contrast interface problems. *IMA Journal of Numerical Analysis*. 38 (2): 646-668, 2018.
+* Johnny Guzmán, Manuel A. Sánchez, and  Marcus Sarkis. A finite element method for high-contrast interface problems with error estimates independent of contrast. *Journal of Scientific Computing*. 73 (1): 330-365, 2017
+* Johnny Guzmán, Manuel A. Sánchez, and  Marcus Sarkis. Higher-order finite element methods for elliptic problems with interfaces. *ESAIM: Mathematical Modelling and Numerical Analysis*. 50 (5): 1561-1583, 2016.
+* Mark Ainsworth and Manuel A. Sánchez. Computing the Bezier control points of the Lagrangian interpolant in arbitrary dimension. *SIAM Journal on Scientific Computing*. 38 (3): A1682-A1700, 2016.
+*  Johnny Guzmán, Manuel A. Sánchez, and  Marcus Sarkis. On the accuracy of finite element approximations to a class of interface problems. *Mathematics of Computations*. 85 (301): 2071-2098, 2016.
 * Johnny Guzmán and Manuel A. Sánchez. Max-norm stability of low order Taylor–Hood elements in three dimensions. *Journal of Scientific Computing*. 65 (2): 598-621, 2015.
 * Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. Pseudostress-based mixed finite element methods for the Stokes problem in $\mathbb R^n$ with Dirichlet boundary conditions. I: A priori error analysis. *Communications in Computational Physics*, 12 (1): 109-134, 2012.
 * Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. A priori and a posteriori error analyses of a velocity-pseudostress formulation for a class of quasi-Newtonian Stokes flows. *Computer Methods in Applied Mechanics and Engineering*. 200 (17-20): 1619-1636, 2011.
