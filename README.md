@@ -18,7 +18,7 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 Publications:
-<ol type="a" reversed>
+<ol reversed>
  <li>This is</li>
  <li>a letter</li>
  <li>list</li>
