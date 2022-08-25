@@ -18,16 +18,20 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 Publications:
-<ol reversed>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JS</li>
-    </ol>
-<dl>
- <dt>[2] <dd>item 1</dd></dt>
- <dt>[3] <dd>item 2</dd></dt> 
- <dt>[4] <dd>item 3</dd></dt> 
-</dl>
+<ol class="rounded-list">
+    <li><a href="">List item</a></li>
+    <li><a href="">List item</a></li>
+    <li><a href="">List item</a>
+      <ol>
+        <li><a href="">List sub item</a></li>
+        <li><a href="">List sub item</a></li>
+        <li><a href="">List sub item</a></li>
+      </ol>
+    </li>
+    <li><a href="">List item</a></li>
+    <li><a href="">List item</a></li>
+  </ol>
+  
 - Experiments, modelling, and simulations for a gel bonded to a rigid substrate. Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. (2022). Journal of Elasticity, 1-29.
 - Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. Cockburn, B., Du, S. & Sánchez, M. (2022). Computational Methods in Applied Mathematics. https://doi.org/10.1515/cmam-2021-0215
 - Symplectic Hamiltonian finite element methods for electromagnetics. Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. (2022). Computer Methods in Applied Mechanics and Engineering, 396, 114969.
