@@ -1,8 +1,8 @@
-### About me
+## About me
 
 I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). The IMC is an interdisciplinary institute developed by Escuela de Ingeniería and Facultad de Matemáticas at UC.
 
-#### Education
+### Education
 * Ph.D. Applied Mathematics, Brown University 2016
 * M.Sc. Applied Mathematics Brown University 2012
 * Ingeniero Cil Matematico, Universidad de Concepcion 2010
@@ -14,10 +14,11 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 [ORCID](https://orcid.org/0000-0001-8175-1831)
 
 
-### Research Interests
+## Research Interests
+<a name="research"> </a>
 Numerical Analysis and Scientific Computing.
 
-Publications:
+### Publications:
 
 * Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. Experiments, modelling, and simulations for a gel bonded to a rigid substrate. *Journal of Elasticity*. 1-29, 2022.
 * Cockburn, B., Du, S. & Sánchez, M. Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. *Computational Methods in Applied Mathematics*. 2022. https://doi.org/10.1515/cmam-2021-0215
@@ -39,8 +40,8 @@ Publications:
 * Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. A priori and a posteriori error analyses of a velocity-pseudostress formulation for a class of quasi-Newtonian Stokes flows. *Computer Methods in Applied Mechanics and Engineering*. 200 (17-20): 1619-1636, 2011.
 * Gabriel N. Gatica, Antonio Márquez, and Manuel A. Sánchez. Analysis of a velocity–pressure–pseudostress formulation for the stationary Stokes equations. *Computer Methods in Applied Mechanics and Engineering*, 199 (17-20): 1064-1079, 2010.
 
-### Students
-
+## Students
+<a name="students"> </a>
 Current and former students
 
 - Cristhian Nuñez, PhD in Mathematics, UC. 2022-.
@@ -52,9 +53,9 @@ Current and former students
 Follow this [link](Student.md) to find out more about current and past students projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
 
 
-### Teaching
-
-#### UC
+## Teaching
+<a name="teaching"> </a>
+### UC
 * 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
 * 2022 - I. Algebra Lineal Numerica IMT2111 
 * 2022 - I.  Cálculo I MAT 1610.
@@ -69,7 +70,7 @@ Follow this [link](Student.md) to find out more about current and past students 
 * 2019 - I.   Cálculo I MAT 1610
 * 2018 - II. Taller de Matemáticas Aplicadas IMT 2116
 
-#### University of Minnesota
+### University of Minnesota
 * Spring 2018  Calculus II
 * Fall 2017 Calculus I
 
