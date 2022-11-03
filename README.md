@@ -19,8 +19,8 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 ### Publications:
-* Cockburn, B., Du, S., Sánchez, M. A.  A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations. *Submitted*.
-* Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. Gels: Energetics, Singularities and Cavitation. *Submitted*.
+* Cockburn, B., Du, S., Sánchez, M. A.  A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations. *Submitted*. 2022.
+* Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. Gels: Energetics, Singularities and Cavitation. *Submitted*. 2022.
 * Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. Experiments, modelling, and simulations for a gel bonded to a rigid substrate. *Journal of Elasticity*. 1-29, 2022.
 * Cockburn, B., Du, S. & Sánchez, M. Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. *Computational Methods in Applied Mathematics*. 2022. https://doi.org/10.1515/cmam-2021-0215
 *  Sánchez, M. A., Du, S., Cockburn, B., Nguyen, N. C., & Peraire, J. Symplectic Hamiltonian finite element methods for electromagnetics. *Computer Methods in Applied Mechanics and Engineering*. 396, 114969, 2022.
