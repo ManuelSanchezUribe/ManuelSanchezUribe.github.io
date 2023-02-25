@@ -59,6 +59,8 @@ Follow this [link](Student.md) to find out more about current and past students 
 ## Teaching
 <a name="teaching"> </a>
 ### UC
+* 2023 - I. Algebra Lineal Numerica IMT2111 
+* 2023 - I. Ecuaciones Diferenciales Ordinarias MAT1640.
 * 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
 * 2022 - I. Algebra Lineal Numerica IMT2111 
 * 2022 - I.  Cálculo I MAT 1610.
