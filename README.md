@@ -19,7 +19,7 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 ### Publications:
-* Cockburn, B., Du, S., Sánchez, M. A.  Combining finite element space-discretizations with symplectic time-marching schemes \\ for linear Hamiltonian systems *Submitted*. 2023.
+* Cockburn, B., Du, S., Sánchez, M. A.  Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems *Submitted*. 2023.
 * Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. A numerical scheme and validation of the asymptotic energy release rate formula for a 2D gel thin film debonding problem *Submitted*. 2023.
 * Cockburn, B., Du, S., Sánchez, M. A.  A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations. *Submitted*. 2022.
 * Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. Gels: Energetics, Singularities and Cavitation. *Accepted. Journal of Elasticity*. 2022.
