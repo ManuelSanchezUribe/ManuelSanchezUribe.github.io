@@ -12,8 +12,8 @@
 - [Clase 4](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT1001/IMT1001_NA_clase4.pdf)
 
 #### Jupyter notebooks
-- [Clase 1 y 2: Metodos para Ecuaciones Diferenciales Ordinarias](IMT_1001_clase1.slides.html)
-- [Clase 3: Metodo de diferencias finitas](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT1001/IMT_1001_clase3.slides.html)
+- [Clase 1 y 2: Metodos para Ecuaciones Diferenciales Ordinarias](IMT1001/IMT_1001_clase1.slides.html)
+- [Clase 3: Metodo de diferencias finitas](IMT1001/IMT_1001_clase3.slides.html)
 - [Clase 4: Metodo de elementos finitos]()
 
 #### Tarea
