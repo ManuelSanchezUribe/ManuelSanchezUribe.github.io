@@ -5,7 +5,7 @@
 
 
 #### Lectures
-- [Clase 1](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT1001/IMT1001_NA_clase1v2.pdf)
+- [Clase 1](/IMT1001_NA_clase1v2.pdf)
 - [Clase 2](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT1001/IMT1001_NA_clase2.pdf)
 - [Clase 3](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT1001/IMT1001_NA_clase3.pdf)
 - [Clase 4](https://github.com/ManuelSanchezUribe/ManuelSanchezUribe.github.io/blob/main/IMT1001/IMT1001_NA_clase4.pdf)
