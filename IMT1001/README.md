@@ -1,4 +1,4 @@
-# IMT 1001, Introduccion a la ingenieria matematica
+# IMT 1001, Introduccion a la Ingenieria Matematica
 ## Modulo de Analisis Numerico 2023
 ## Profesor: Manuel A. Sanchez
 ## email: manuel.sanchez(at)uc.cl
