@@ -59,6 +59,7 @@ Follow this [link](Student.md) to find out more about current and past students 
 ## Teaching
 <a name="teaching"> </a>
 ### UC
+* 2023 - I. [Modulo Analisis Numerico, Introduccion a la Ingenieria Matematica IMT1001](/IMT1001/README.md)
 * 2023 - I. Algebra Lineal Numerica IMT2111 
 * 2023 - I. Ecuaciones Diferenciales Ordinarias MAT1640.
 * 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
