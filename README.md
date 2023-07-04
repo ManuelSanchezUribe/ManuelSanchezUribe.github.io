@@ -5,7 +5,7 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 ### Education
 * Ph.D. Applied Mathematics, Brown University 2016
 * M.Sc. Applied Mathematics Brown University 2012
-* Ingeniero Cil Matematico, Universidad de Concepcion 2010
+* Ingeniero Civil Matematico, Universidad de Concepcion 2010
 * B.Sc. Mathematical Engineering, Universidad de Concepcion 2010
 
 
