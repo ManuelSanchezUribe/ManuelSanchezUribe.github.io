@@ -1,6 +1,6 @@
 ## About me
 
-I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). The IMC is an interdisciplinary institute developed by Escuela de Ingeniería and Facultad de Matemáticas at UC.
+I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). My research interests are Numerical Analysis and Scientific Computing. 
 
 ### Education
 * Ph.D. Applied Mathematics, Brown University 2016
