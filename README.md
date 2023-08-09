@@ -1,11 +1,11 @@
 ## About me
 
-I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). The IMC is an interdisciplinary institute developed by Escuela de Ingeniería and Facultad de Matemáticas at UC.
+I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). My research interests are Numerical Analysis and Scientific Computing. 
 
 ### Education
 * Ph.D. Applied Mathematics, Brown University 2016
 * M.Sc. Applied Mathematics Brown University 2012
-* Ingeniero Cil Matematico, Universidad de Concepcion 2010
+* Ingeniero Civil Matematico, Universidad de Concepcion 2010
 * B.Sc. Mathematical Engineering, Universidad de Concepcion 2010
 
 
@@ -19,8 +19,10 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 ### Publications:
-* Cockburn, B., Du, S., Sánchez, M. A.  Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems *Submitted*. 2023.
-* Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. A numerical scheme and validation of the asymptotic energy release rate formula for a 2D gel thin film debonding problem *Submitted*. 2023.
+* Sanchez, M. A., Valenzuela, J. Symplectic Hamiltonian finite element methods for semilinear wave propagation. *Submitted*. July 2023.
+* Hojas, V. A., Pérez-Arancibia, C., Sánchez, M. A. Reflectionless discrete perfectly matched layers for higher-order finite difference schemes. *Submitted*. June 2023.
+* Cockburn, B., Du, S., Sánchez, M. A.  Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems. *Submitted*. 2023.
+* Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. A numerical scheme and validation of the asymptotic energy release rate formula for a 2D gel thin film debonding problem. *Submitted*. 2023.
 * Cockburn, B., Du, S., Sánchez, M. A.  A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations. *Submitted*. 2022.
 * Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. Gels: Energetics, Singularities and Cavitation. *Accepted. Journal of Elasticity*. 2022.
 * Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. Experiments, modelling, and simulations for a gel bonded to a rigid substrate. *Journal of Elasticity*. 1-29, 2022.
@@ -47,18 +49,19 @@ Numerical Analysis and Scientific Computing.
 <a name="students"> </a>
 Current and former students
 
-- Cristhian Nuñez, PhD in Mathematics, UC. 2022-.
+- Cristhian Nuñez, Ph.D. in Mathematics, UC. 2022-.
 - Vicente Hojas, Master of Engineering Sciences, UC. 2021-.
 - Pablo Cortes, Master of Engineering Sciences, UC. 2021-.
 - Joaquin Valenzuela, Master of Engineering Sciences, UC. 2021-.
 - Genaro Laymuns. Master of Engineering Sciences, UC. Graduated July 2021.
 
-Follow this [link](Student.md) to find out more about current and past students projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
+Follow this [link](Student.md) to learn more about current and past students' projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
 
 
 ## Teaching
 <a name="teaching"> </a>
 ### UC
+* 2023 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410_23.md)
 * 2023 - I. [Modulo Analisis Numerico, Introduccion a la Ingenieria Matematica IMT1001](IMT1001.md)
 * 2023 - I. Algebra Lineal Numerica IMT2111 
 * 2023 - I. Ecuaciones Diferenciales Ordinarias MAT1640.
@@ -83,7 +86,7 @@ Follow this [link](Student.md) to find out more about current and past students 
 ### Contact me
 <a name="contact"> </a>
 
-email: manuel.sanchez at ing.puc.cl
+email: manuel.sanchez at uc.cl
 
 mailing address: <br> Instituto de Ingenieria Matematica y Computacional <br>
 Edificio Hernan Briones, 2do piso, Campus San Joaquin UC<br>
