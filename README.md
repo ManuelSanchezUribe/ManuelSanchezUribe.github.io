@@ -61,14 +61,17 @@ Follow this [link](Student.md) to learn more about current and past students' pr
 ## Teaching
 <a name="teaching"> </a>
 ### UC
+* 2024 - II. [Metodos para Ecuaciones Diferenciales](IMT3410_24.md)
+* 2024 - I. Algebra Lineal Numerica IMT2111  
+* 2024 - I. Algebra Lineal MAT1203
 * 2023 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410_23.md)
 * 2023 - I. [Modulo Analisis Numerico, Introduccion a la Ingenieria Matematica IMT1001](IMT1001.md)
-* 2023 - I. Algebra Lineal Numerica IMT2111 
-* 2023 - I. Ecuaciones Diferenciales Ordinarias MAT1640.
+* 2023 - I. Algebra Lineal Numerica IMT2111
+* 2023 - I. Ecuaciones Diferenciales Ordinarias MAT1640
 * 2022 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410.md)
 * 2022 - I. Algebra Lineal Numerica IMT2111 
-* 2022 - I.  Cálculo I MAT 1610.
-* 2021 - I. Ecuaciones Diferenciales Ordinarias MAT1640.    [Youtube channel](https://www.youtube.com/channel/UCG8zBk2sF7vggUinoD-88jQ) 
+* 2022 - I.  Cálculo I MAT 1610
+* 2021 - I. Ecuaciones Diferenciales Ordinarias MAT1640    [Youtube channel](https://www.youtube.com/channel/UCG8zBk2sF7vggUinoD-88jQ) 
 * 2021 - I. Algebra Lineal Numerica IMT2111 
 * 2020 - II. Topicos Avanzados de Ingenieria Matematica, IMT 3800
 * 2020 - II. Calculo Cientifico I, MAT2605
