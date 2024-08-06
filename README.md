@@ -64,7 +64,7 @@ Follow this [link](Student.md) to learn more about current and past students' pr
 ## Teaching
 <a name="teaching"> </a>
 ### UC
-* 2024 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410/IMT3410_24.md)
+* 2024 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410_24.md)
 * 2024 - I. Algebra Lineal Numérica IMT2111  
 * 2024 - I. Algebra Lineal MAT1203
 * 2023 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410_23.md)
