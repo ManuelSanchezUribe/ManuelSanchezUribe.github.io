@@ -49,10 +49,12 @@ Numerical Analysis and Scientific Computing.
 <a name="students"> </a>
 Current and former students
 
+- Diego Vera,  Master of Mathematical and Computational Engineering, IMC UC. August 2024-.
+- Sebastian Ferra,  Master of Mathematical and Computational Engineering, IMC UC. August 2023-.
 - Cristhian Nuñez, Ph.D. in Mathematics, UC. 2022-.
-- Vicente Hojas, Master of Engineering Sciences, UC. 2021-.
+- Vicente Hojas, Master of Engineering Sciences, UC. Graduated January 2024.
 - Pablo Cortes, Master of Engineering Sciences, UC. 2021-.
-- Joaquin Valenzuela, Master of Engineering Sciences, UC. 2021-.
+- Joaquin Valenzuela, Master of Engineering Sciences, UC. Graduated July 2023.
 - Genaro Laymuns. Master of Engineering Sciences, UC. Graduated July 2021.
 
 Follow this [link](Student.md) to learn more about current and past students' projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
