@@ -19,11 +19,12 @@ I am an Assistant Professor at the Institute for Mathematical and Computational 
 Numerical Analysis and Scientific Computing.
 
 ### Publications:
-* Sanchez, M. A., Valenzuela, J. Symplectic Hamiltonian finite element methods for semilinear wave propagation. *Submitted*. July 2023.
+*Führer, T. and Sánchez, M.A. Quasi-interpolators with application to postprocessing in finite element methods. *Submitted*. 2024.
+* Sanchez, M. A., Valenzuela, J. Symplectic Hamiltonian finite element methods for semilinear wave propagation. *Journal of Scientific Computing*.  99 (3), 62, 2024.
 * Hojas, V. A., Pérez-Arancibia, C., Sánchez, M. A. Reflectionless discrete perfectly matched layers for higher-order finite difference schemes. *Submitted*. June 2023.
-* Cockburn, B., Du, S., Sánchez, M. A.  Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems. *Submitted*. 2023.
+* Cockburn, B., Du, S., Sánchez, M. A.  Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems. *Frontiers in Applied Mathematics and Statistics* 9, 1165371. 2023.
 * Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. A numerical scheme and validation of the asymptotic energy release rate formula for a 2D gel thin film debonding problem. *Submitted*. 2023.
-* Cockburn, B., Du, S., Sánchez, M. A.  A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations. *Submitted*. 2022.
+* Cockburn, B., Du, S., Sánchez, M. A.  A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations. *ESAIM: Mathematical Modelling and Numerical Analysis* 57 (4), 2097-2129. 2023.
 * Calderer, M. C.,  Henao, D., Sánchez, M. A., Song, S., Siegel, R. A. Gels: Energetics, Singularities and Cavitation. *Accepted. Journal of Elasticity*. 2022.
 * Song, S., Siegel, R. A., Sánchez, M. A., Calderer, M. C., & Henao, D. Experiments, modelling, and simulations for a gel bonded to a rigid substrate. *Journal of Elasticity*. 1-29, 2022.
 * Cockburn, B., Du, S. & Sánchez, M. Discontinuous Galerkin Methods with Time-Operators in Their Numerical Traces for Time-Dependent Electromagnetics. *Computational Methods in Applied Mathematics*. 2022. https://doi.org/10.1515/cmam-2021-0215
