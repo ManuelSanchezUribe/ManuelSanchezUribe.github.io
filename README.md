@@ -64,7 +64,7 @@ Follow this [link](Student.md) to learn more about current and past students' pr
 ## Teaching
 <a name="teaching"> </a>
 ### UC
-* 2025 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410_25.md)
+* 2025 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](https://github.com/ManuelSanchezUribe/MAT2605_UC/blob/main/README.md)
 * 2025 - II. [Cálculo Científico I MAT 2605](MAT2605.md)
 * 2025 - I. Cálculo I MAT 1610
 * 2024 - II. [IMT3410 Métodos para Ecuaciones Diferenciales](IMT3410_24.md)
