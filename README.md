@@ -98,7 +98,7 @@ Follow this [link](Student.md) to learn more about current and past students' pr
 email: manuel.sanchez at uc.cl
 
 mailing address: <br> Instituto de Ingenieria Matematica y Computacional <br>
-Edificio Hernan Briones, 2do piso, Campus San Joaquin UC<br>
+Edificio Carreras Interdisciplinarias, 5to piso, Campus San Joaquin UC<br>
 Avda. Vicuna Mackenna 4860, Macul, Santiago, Chile.
 
 url: [https://manuelsanchezuribe.github.io](https://manuelsanchezuribe.github.io)
