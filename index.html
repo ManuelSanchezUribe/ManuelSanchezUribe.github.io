@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Manuel A. Sánchez | Academic Webpage | IMC UC Chile</title>
+  <meta name="description" content="Manuel A. Sánchez - Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC), UC Chile. Research in Numerical Analysis and Scientific Computing.">
+  <meta name="author" content="Manuel A. Sánchez">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="MASUcircle.png">
+
+  <!-- External Styles & Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- KaTeX for High-Quality Math Rendering -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"
+    onload="renderMathInElement(document.body, {delimiters: [{left: '$$', right: '$$', display: true}, {left: '$', right: '$', display: false}]});"></script>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="#about" class="nav-logo">
+        <img src="MASUcircle.png" alt="Manuel A. Sánchez Logo">
+        <span>Manuel A. Sánchez</span>
+      </a>
+
+      <ul class="nav-links">
+        <li><a href="#about" class="nav-link active">Sobre Mí</a></li>
+        <li><a href="#research" class="nav-link">Investigación</a></li>
+        <li><a href="#publications" class="nav-link">Publicaciones</a></li>
+        <li><a href="#students" class="nav-link">Estudiantes</a></li>
+        <li><a href="#teaching" class="nav-link">Docencia</a></li>
+        <li><a href="#contact" class="nav-link">Contacto</a></li>
+      </ul>
+
+      <button id="theme-toggle" class="theme-toggle-btn" aria-label="Cambiar tema">
+        <i class="fas fa-sun"></i>
+      </button>
+    </div>
+  </nav>
+
+  <!-- HERO SECTION -->
+  <section id="about" class="hero-section">
+    <canvas id="hero-canvas"></canvas>
+    
+    <div class="container">
+      <div class="hero-grid">
+        
+        <!-- Profile Card -->
+        <div class="profile-card">
+          <div class="avatar-wrapper">
+            <img src="MASUcircle.png" alt="Manuel A. Sánchez" class="avatar-img">
+          </div>
+          <div class="status-badge">
+            <span class="status-dot"></span> Assistant Professor
+          </div>
+        </div>
+
+        <!-- Content -->
+        <div class="hero-content">
+          <h1>Manuel A. Sánchez, Ph.D.</h1>
+          <div class="hero-title">
+            Profesor Asistente | Instituto de Ingeniería Matemática y Computacional (IMC), UC Chile
+          </div>
+          
+          <p class="hero-bio">
+            Mi investigación se centra en el <strong>Análisis Numérico</strong> y el <strong>Cálculo Científico</strong>, con énfasis en Métodos de Elementos Finitos Discontinuos (Galerkin Discontinuo Híbrido - HDG), esquemas simplécticos hamiltonianos para propagación de ondas y problemas de interfaz con alto contraste.
+          </p>
+
+          <div class="education-chips">
+            <span class="chip"><i class="fas fa-graduation-cap"></i> Ph.D. Applied Math, Brown University (2016)</span>
+            <span class="chip"><i class="fas fa-certificate"></i> M.Sc. Applied Math, Brown University (2012)</span>
+            <span class="chip"><i class="fas fa-university"></i> Ing. Civil Matemático, U. de Concepción (2010)</span>
+          </div>
+
+          <div class="social-links">
+            <a href="https://scholar.google.com/citations?user=AzEGKS8AAAAJ&hl=es&authuser=1" target="_blank" class="btn-social">
+              <i class="fas fa-graduation-cap"></i> Google Scholar
+            </a>
+            <a href="https://orcid.org/0000-0001-8175-1831" target="_blank" class="btn-social">
+              <i class="fab fa-orcid"></i> ORCID
+            </a>
+            <a href="https://github.com/ManuelSanchezUribe" target="_blank" class="btn-social">
+              <i class="fab fa-github"></i> GitHub
+            </a>
+            <a href="https://www.youtube.com/channel/UCG8zBk2sF7vggUinoD-88jQ" target="_blank" class="btn-social">
+              <i class="fab fa-youtube"></i> YouTube
+            </a>
+            <a href="mailto:manuel.sanchez@ing.puc.cl" class="btn-social">
+              <i class="fas fa-envelope"></i> Email
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- RESEARCH INTERESTS -->
+  <section id="research" class="section">
+    <div class="container">
+      <h2 class="section-title"><i class="fas fa-microscope"></i> Áreas de Investigación</h2>
+      <p class="section-subtitle">Líneas de trabajo principales en análisis numérico y modelación computacional</p>
+
+      <div class="research-grid">
+        <div class="glass-card research-card">
+          <div class="research-card-icon"><i class="fas fa-cubes"></i></div>
+          <h3>Métodos de Elementos Finitos & HDG</h3>
+          <p>Desarrollo y análisis de métodos Galerkin Discontinuos Híbridos (HDG), aproximaciones primal-dual, súper-cercanía (*supercloseness*) y operadores temporales en trazas numéricas para problemas elípticos e hiperbólicos.</p>
+        </div>
+
+        <div class="glass-card research-card">
+          <div class="research-card-icon"><i class="fas fa-wave-square"></i></div>
+          <h3>Métodos Hamiltonianos Simplécticos</h3>
+          <p>Esquemas de marcha temporal simplécticos combinados con discretizaciones espaciales de elementos finitos para la simulación conservativa de elastodinámica, propagación de ondas acústicas y ecuaciones de Maxwell.</p>
+        </div>
+
+        <div class="glass-card research-card">
+          <div class="research-card-icon"><i class="fas fa-draw-polygon"></i></div>
+          <h3>Problemas de Interfaz y Mallas No Ajustadas</h3>
+          <p>Desarrollo de métodos tipo Nitsche difuso, estimación robusta del error de flujo y esquemas de orden superior para problemas elípticos y problemas de interfaz móvil de Stokes con alto contraste de parámetros.</p>
+        </div>
+
+        <div class="glass-card research-card">
+          <div class="research-card-icon"><i class="fas fa-atom"></i></div>
+          <h3>Elasticidad de Geles & Singularidades</h3>
+          <p>Modelación matemática, análisis numérico y validación experimental de la tasa de liberación de energía asintótica en despegue de películas delgadas de gel y cavitación elástica.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PUBLICATIONS -->
+  <section id="publications" class="section">
+    <div class="container">
+      <h2 class="section-title"><i class="fas fa-book-open"></i> Publicaciones Científicas</h2>
+      <p class="section-subtitle">Artículos en revistas internacionales con arbitraje de pares y manuscritos enviados</p>
+
+      <!-- Controls -->
+      <div class="pub-controls">
+        <div class="search-box">
+          <i class="fas fa-search"></i>
+          <input type="text" id="pub-search" placeholder="Buscar por título, coautor o término (ej: HDG, Symplectic, Waves)...">
+        </div>
+
+        <div class="filter-pills">
+          <button class="pill-btn active" data-filter="all">Todas</button>
+          <button class="pill-btn" data-filter="journal">Revistas</button>
+          <button class="pill-btn" data-filter="submitted">Enviados</button>
+          <button class="pill-btn" data-filter="hdg">HDG & FEM</button>
+          <button class="pill-btn" data-filter="waves">Ondas & Maxwell</button>
+        </div>
+      </div>
+
+      <!-- Publication List -->
+      <div class="publications-list">
+
+        <!-- 2024 -->
+        <div class="glass-card pub-card" data-category="submitted hdg">
+          <div>
+            <div class="pub-title">Quasi-interpolators with application to postprocessing in finite element methods</div>
+            <div class="pub-authors">T. Führer and <span class="author-me">M.A. Sánchez</span></div>
+            <div class="pub-venue">Submitted</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2024</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{FuhrerSanchez2024, author={Führer, T. and Sánchez, M.A.}, title={Quasi-interpolators with application to postprocessing in finite element methods}, journal={Submitted}, year={2024}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-card pub-card" data-category="journal waves hdg">
+          <div>
+            <div class="pub-title">Symplectic Hamiltonian finite element methods for semilinear wave propagation</div>
+            <div class="pub-authors"><span class="author-me">M.A. Sánchez</span> and J. Valenzuela</div>
+            <div class="pub-venue">Journal of Scientific Computing, 99 (3), 62</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2024</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{SanchezValenzuela2024, author={Sánchez, M. A. and Valenzuela, J.}, title={Symplectic Hamiltonian finite element methods for semilinear wave propagation}, journal={Journal of Scientific Computing}, volume={99}, number={3}, pages={62}, year={2024}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2023 -->
+        <div class="glass-card pub-card" data-category="submitted waves">
+          <div>
+            <div class="pub-title">Reflectionless discrete perfectly matched layers for higher-order finite difference schemes</div>
+            <div class="pub-authors">V.A. Hojas, C. Pérez-Arancibia, and <span class="author-me">M.A. Sánchez</span></div>
+            <div class="pub-venue">Submitted</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2023</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{HojasPerezSanchez2023, author={Hojas, V. A. and Pérez-Arancibia, C. and Sánchez, M. A.}, title={Reflectionless discrete perfectly matched layers for higher-order finite difference schemes}, journal={Submitted}, year={2023}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-card pub-card" data-category="journal waves hdg">
+          <div>
+            <div class="pub-title">Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems</div>
+            <div class="pub-authors">B. Cockburn, S. Du, and <span class="author-me">M.A. Sánchez</span></div>
+            <div class="pub-venue">Frontiers in Applied Mathematics and Statistics, 9, 1165371</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2023</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{CockburnDuSanchez2023, author={Cockburn, B. and Du, S. and Sánchez, M. A.}, title={Combining finite element space-discretizations with symplectic time-marching schemes for linear Hamiltonian systems}, journal={Frontiers in Applied Mathematics and Statistics}, volume={9}, pages={1165371}, year={2023}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-card pub-card" data-category="journal waves hdg">
+          <div>
+            <div class="pub-title">A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations</div>
+            <div class="pub-authors">B. Cockburn, S. Du, and <span class="author-me">M.A. Sánchez</span></div>
+            <div class="pub-venue">ESAIM: Mathematical Modelling and Numerical Analysis, 57 (4), 2097-2129</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2023</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{CockburnDuSanchez2023ESAIM, author={Cockburn, B. and Du, S. and Sánchez, M. A.}, title={A priori error analysis of new semidiscrete, Hamiltonian HDG methods for the time-dependent Maxwell's equations}, journal={ESAIM: M2AN}, volume={57}, number={4}, pages={2097--2129}, year={2023}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2022 -->
+        <div class="glass-card pub-card" data-category="journal hdg waves">
+          <div>
+            <div class="pub-title">Symplectic Hamiltonian finite element methods for electromagnetics</div>
+            <div class="pub-authors"><span class="author-me">M.A. Sánchez</span>, S. Du, B. Cockburn, N.C. Nguyen, and J. Peraire</div>
+            <div class="pub-venue">Computer Methods in Applied Mechanics and Engineering, 396, 114969</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2022</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{Sanchez2022CMAME, author={Sánchez, M. A. and Du, S. and Cockburn, B. and Nguyen, N. C. and Peraire, J.}, title={Symplectic Hamiltonian finite element methods for electromagnetics}, journal={Computer Methods in Applied Mechanics and Engineering}, volume={396}, pages={114969}, year={2022}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="glass-card pub-card" data-category="journal hdg">
+          <div>
+            <div class="pub-title">Corrected finite element methods on unfitted meshes for Stokes moving interface problem</div>
+            <div class="pub-authors">G. Laymuns and <span class="author-me">M.A. Sánchez</span></div>
+            <div class="pub-venue">Computers & Mathematics with Applications, 108, 159-174</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2022</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{LaymunsSanchez2022, author={Laymuns, G. and Sánchez, M. A.}, title={Corrected finite element methods on unfitted meshes for Stokes moving interface problem}, journal={Computers \& Mathematics with Applications}, volume={108}, pages={159--174}, year={2022}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2021 -->
+        <div class="glass-card pub-card" data-category="journal waves hdg">
+          <div>
+            <div class="pub-title">Symplectic Hamiltonian finite element methods for linear elastodynamics</div>
+            <div class="pub-authors"><span class="author-me">M.A. Sánchez</span>, B. Cockburn, N.C. Nguyen, and J. Peraire</div>
+            <div class="pub-venue">Computer Methods in Applied Mechanics and Engineering, 381, 113843</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2021</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{Sanchez2021Elastodynamics, author={Sánchez, M. A. and Cockburn, B. and Nguyen, N. C. and Peraire, J.}, title={Symplectic Hamiltonian finite element methods for linear elastodynamics}, journal={Computer Methods in Applied Mechanics and Engineering}, volume={381}, pages={113843}, year={2021}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- 2019 -->
+        <div class="glass-card pub-card" data-category="journal hdg">
+          <div>
+            <div class="pub-title">An $\mathcal{O}(p^3)$ $hp$-version FEM in two dimensions: Preconditioning and post-processing</div>
+            <div class="pub-authors">M. Ainsworth, S. Jiang, and <span class="author-me">M.A. Sánchez</span></div>
+            <div class="pub-venue">Computer Methods in Applied Mechanics and Engineering, 350, 766-802</div>
+          </div>
+          <div class="pub-meta">
+            <span class="pub-year">2019</span>
+            <div class="pub-actions">
+              <button class="btn-bibtex" data-bibtex="@article{AinsworthJiangSanchez2019, author={Ainsworth, M. and Jiang, S. and Sánchez, M. A.}, title={An $\mathcal{O}(p^3)$ $hp$-version FEM in two dimensions: Preconditioning and post-processing}, journal={Computer Methods in Applied Mechanics and Engineering}, volume={350}, pages={766--802}, year={2019}}"><i class="fas fa-quote-right"></i> BibTeX</button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- STUDENTS -->
+  <section id="students" class="section">
+    <div class="container">
+      <h2 class="section-title"><i class="fas fa-user-graduate"></i> Estudiantes & Tesistas</h2>
+      <p class="section-subtitle">Estudiantes actuales y ex-alumnos de posgrado en proyectos de investigación</p>
+
+      <div class="students-grid">
+        
+        <div class="glass-card student-card">
+          <div>
+            <div class="student-header">
+              <div class="student-name">Diego Vera</div>
+              <span class="student-badge current">En Curso</span>
+            </div>
+            <div class="student-degree">Magíster en Ingeniería Matemática y Computacional, IMC UC</div>
+          </div>
+          <div class="student-date"><i class="far fa-calendar-alt"></i> Agosto 2024 – Presente</div>
+        </div>
+
+        <div class="glass-card student-card">
+          <div>
+            <div class="student-header">
+              <div class="student-name">Sebastian Ferra</div>
+              <span class="student-badge current">En Curso</span>
+            </div>
+            <div class="student-degree">Magíster en Ingeniería Matemática y Computacional, IMC UC</div>
+          </div>
+          <div class="student-date"><i class="far fa-calendar-alt"></i> Agosto 2023 – Presente</div>
+        </div>
+
+        <div class="glass-card student-card">
+          <div>
+            <div class="student-header">
+              <div class="student-name">Cristhian Nuñez</div>
+              <span class="student-badge current">En Curso</span>
+            </div>
+            <div class="student-degree">Doctorado en Matemáticas, UC Chile</div>
+          </div>
+          <div class="student-date"><i class="far fa-calendar-alt"></i> 2022 – Presente</div>
+        </div>
+
+        <div class="glass-card student-card">
+          <div>
+            <div class="student-header">
+              <div class="student-name">Vicente Hojas</div>
+              <span class="student-badge graduated">Graduado</span>
+            </div>
+            <div class="student-degree">Magíster en Ciencias de la Ingeniería, UC Chile</div>
+          </div>
+          <div class="student-date"><i class="far fa-check-circle"></i> Graduado en Enero 2024</div>
+        </div>
+
+        <div class="glass-card student-card">
+          <div>
+            <div class="student-header">
+              <div class="student-name">Joaquín Valenzuela</div>
+              <span class="student-badge graduated">Graduado</span>
+            </div>
+            <div class="student-degree">Magíster en Ciencias de la Ingeniería, UC Chile</div>
+          </div>
+          <div class="student-date"><i class="far fa-check-circle"></i> Graduado en Julio 2023</div>
+        </div>
+
+        <div class="glass-card student-card">
+          <div>
+            <div class="student-header">
+              <div class="student-name">Genaro Laymuns</div>
+              <span class="student-badge graduated">Graduado</span>
+            </div>
+            <div class="student-degree">Magíster en Ciencias de la Ingeniería, UC Chile</div>
+          </div>
+          <div class="student-date"><i class="far fa-check-circle"></i> Graduado en Julio 2021</div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- TEACHING -->
+  <section id="teaching" class="section">
+    <div class="container">
+      <h2 class="section-title"><i class="fas fa-chalkboard-teacher"></i> Docencia</h2>
+      <p class="section-subtitle">Cursos de pregrado y posgrado impartidos en la UC Chile y University of Minnesota</p>
+
+      <div class="teaching-list">
+        <div class="glass-card course-card">
+          <div class="course-info">
+            <h3>IMT3410 Métodos para Ecuaciones Diferenciales</h3>
+            <p>Curso de posgrado enfocado en la teoría y resolución numérica de EDPs.</p>
+          </div>
+          <div class="course-term">2025 - II</div>
+        </div>
+
+        <div class="glass-card course-card">
+          <div class="course-info">
+            <h3>MAT2605 Cálculo Científico I</h3>
+            <p>Métodos numéricos fundamentales y algoritmos en Python para ecuaciones y sistemas.</p>
+          </div>
+          <div class="course-term">2025 - II</div>
+        </div>
+
+        <div class="glass-card course-card">
+          <div class="course-info">
+            <h3>IMT2111 Álgebra Lineal Numérica</h3>
+            <p>Factorización de matrices, métodos iterativos de Krylov (GMRES, CG) y valores propios.</p>
+          </div>
+          <div class="course-term">2024 - I</div>
+        </div>
+
+        <div class="glass-card course-card">
+          <div class="course-info">
+            <h3>MAT1640 Ecuaciones Diferenciales Ordinarias</h3>
+            <p>Sistemas dinámicos y solución de EDOs. Incluye clases grabadas en canal de YouTube.</p>
+          </div>
+          <div class="course-term">2023 - I</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="section">
+    <div class="container">
+      <h2 class="section-title"><i class="fas fa-address-card"></i> Contacto y Ubicación</h2>
+      <p class="section-subtitle">Oficina e información de contacto académico</p>
+
+      <div class="contact-grid">
+        <div class="glass-card">
+          <ul class="contact-info-list">
+            <li class="contact-item">
+              <div class="contact-icon"><i class="fas fa-envelope"></i></div>
+              <div class="contact-detail">
+                <h4>Correo Electrónico</h4>
+                <p><a href="mailto:manuel.sanchez@ing.puc.cl">manuel.sanchez@ing.puc.cl</a> / <a href="mailto:manuel.sanchez@uc.cl">manuel.sanchez@uc.cl</a></p>
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="contact-icon"><i class="fas fa-map-marker-alt"></i></div>
+              <div class="contact-detail">
+                <h4>Dirección de Oficina</h4>
+                <p>Edificio Carreras Interdisciplinarias, 5to piso<br>Campus San Joaquín UC, Av. Vicuña Mackenna 4860<br>Macul, Santiago, Chile</p>
+              </div>
+            </li>
+
+            <li class="contact-item">
+              <div class="contact-icon"><i class="fas fa-building"></i></div>
+              <div class="contact-detail">
+                <h4>Institución</h4>
+                <p>Instituto de Ingeniería Matemática y Computacional (IMC)<br>Pontificia Universidad Católica de Chile</p>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <ul class="footer-links">
+        <li><a href="#about">Inicio</a></li>
+        <li><a href="#research">Investigación</a></li>
+        <li><a href="#publications">Publicaciones</a></li>
+        <li><a href="#students">Estudiantes</a></li>
+        <li><a href="#teaching">Docencia</a></li>
+        <li><a href="#contact">Contacto</a></li>
+      </ul>
+      <p>© 2026 Manuel A. Sánchez Uribe. Publicado con GitHub Pages.</p>
+    </div>
+  </footer>
+
+  <!-- Main JavaScript Engine -->
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

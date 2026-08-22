@@ -1,17 +1,18 @@
-theme: jekyll-theme-slate
-
-github:
-  is_project_page: false
-  
 title: "Manuel A. Sánchez"
-subtitle: "personal webpage"
+subtitle: "Personal Academic Webpage"
 email: "manuel.sanchez@ing.puc.cl"
 
-description: "Assistant Professor <br> Institute for Mathematical and Computational Engineering, UC Chile"
-author: "Manuel"
+description: "Assistant Professor | Institute for Mathematical and Computational Engineering (IMC), UC Chile"
+author: "Manuel A. Sánchez"
 github_username: "ManuelSanchezUribe"
 
 use_logo: true
-
-# logo image to use. logo images are constrained at 50px in height.
 logo: MASUcircle.png
+
+# Include assets
+include:
+  - assets
+  - old_page
+
+exclude:
+  - .ipynb_checkpoints
