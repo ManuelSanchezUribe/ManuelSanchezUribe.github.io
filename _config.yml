@@ -2,14 +2,13 @@ title: "Manuel A. Sánchez"
 subtitle: "Personal Academic Webpage"
 email: "manuel.sanchez@ing.puc.cl"
 
-description: "Assistant Professor | Institute for Mathematical and Computational Engineering (IMC), UC Chile"
+description: "Associate Professor | Institute for Mathematical and Computational Engineering (IMC), UC Chile"
 author: "Manuel A. Sánchez"
 github_username: "ManuelSanchezUribe"
 
 use_logo: true
 logo: MASUcircle.png
 
-# Include assets
 include:
   - assets
   - old_page

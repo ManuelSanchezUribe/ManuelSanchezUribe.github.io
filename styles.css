@@ -750,7 +750,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .nav-links {
-    display: none; /* Can add mobile drawer if needed */
+    display: none;
   }
 
   .pub-card {

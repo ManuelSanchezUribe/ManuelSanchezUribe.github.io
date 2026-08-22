@@ -1,6 +1,6 @@
 ## About me
 
-I am an Assistant Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). My research interests are Numerical Analysis and Scientific Computing. 
+I am an Associate Professor at the Institute for Mathematical and Computational Engineering (IMC) of the Pontificia Universidad Católica de Chile (UC). My research interests are Numerical Analysis and Scientific Computing. 
 
 ### Education
 * Ph.D. Applied Mathematics, Brown University 2016
@@ -57,9 +57,6 @@ Current and former students
 - Pablo Cortes, Master of Engineering Sciences, UC. 2021-.
 - Joaquin Valenzuela, Master of Engineering Sciences, UC. Graduated July 2023.
 - Genaro Laymuns. Master of Engineering Sciences, UC. Graduated July 2021.
-
-Follow this [link](Student.md) to learn more about current and past students' projects, including undergraduate research projects. Research opportunities for students (undergraduate and graduate) are also available.
-
 
 ## Teaching
 <a name="teaching"> </a>
