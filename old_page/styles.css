@@ -1,0 +1,86 @@
+nav {
+  margin: 10px auto 0;
+
+  position: absolute;
+  width: 550px;
+  height: 40px;
+  background-color: #222222; /*#212121;*/ /*#9b59b6;*/ /*#34495e;*/
+  border-radius: 8px;
+  font-size: 0;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+nav a {
+  line-height: 40px;
+  height: 100%;
+  font-size: 13px;
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  cursor: pointer;
+}
+nav .animation {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  z-index: 0;
+  transition: all .5s ease 0s;
+  border-radius: 8px;
+}
+a:nth-child(1) {
+  width: 100px;
+}
+a:nth-child(2) {
+  width: 100px;
+}
+a:nth-child(3) {
+  width: 100px;
+}
+a:nth-child(4) {
+  width: 100px;
+}
+a:nth-child(5) {
+  width: 100px;
+}
+nav .start-home, a:nth-child(1):hover~.animation {
+  width: 100px;
+  left: 0;
+  background-color: #0F79D0; /*#e67e22;*//*#1abc9c;*/
+}
+nav .start-about, a:nth-child(2):hover~.animation {
+  width: 100px;
+  left: 100px;
+  background-color: #0F79D0; /*#e67e22;*//*#e74c3c;*/
+}
+nav .start-blog, a:nth-child(3):hover~.animation {
+  width: 100px;
+  left: 200px;
+  background-color: #0F79D0; /*#e67e22;*//*#3498db;*/
+}
+nav .start-portefolio, a:nth-child(4):hover~.animation {
+  width: 100px;
+  left: 300px;
+  background-color: #0F79D0; /*#e67e22;*//*#9b59b6;*/
+}
+nav .start-contact, a:nth-child(5):hover~.animation {
+  width: 100px;
+  left: 400px;
+  background-color: #0F79D0; /*#e67e22;*/
+}
+
+ol {
+    counter-reset: li; /* Initiate a counter */
+    list-style: none; /* Remove default numbering */
+    *list-style: decimal; /* Keep using default numbering for IE6/7 */
+    font: 15px 'trebuchet MS', 'lucida sans';
+    padding: 0;
+    margin-bottom: 4em;
+    text-shadow: 0 1px 0 rgba(255,255,255,.5);
+  }
+
+ol ol {
+    margin: 0 0 0 2em; /* Add some left margin for inner lists */
+  }
